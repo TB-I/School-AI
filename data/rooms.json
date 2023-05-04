@@ -1,0 +1,310 @@
+{
+   "rooms":[
+      {
+         "name":"9a",
+         "capacity":null,
+         "number":"401",
+         "story":"Oben"
+      },
+      {
+         "name":"Com oben",
+         "capacity":null,
+         "number":"411",
+         "story":"Oben"
+      },
+      {
+         "name":"Com oben2",
+         "capacity":null,
+         "number":"410",
+         "story":"Oben"
+      },
+      {
+         "name":"Franzraum",
+         "capacity":null,
+         "number":"409",
+         "story":"Oben"
+      },
+      {
+         "name":"9b",
+         "capacity":null,
+         "number":"408",
+         "story":"Oben"
+      },
+      {
+         "name":"8a",
+         "capacity":null,
+         "number":"407",
+         "story":"Oben"
+      },
+      {
+         "name":"8b",
+         "capacity":null,
+         "number":"402",
+         "story":"Oben"
+      },
+      {
+         "name":"Unknown",
+         "capacity":null,
+         "number":"403",
+         "story":"Oben"
+      },
+      {
+         "name":"Klavier",
+         "capacity":null,
+         "number":"302",
+         "story":"Mitte"
+      },
+      {
+         "name":"Vorber. Handarbeit",
+         "capacity":null,
+         "number":"303",
+         "story":"Mitte"
+      },
+      {
+         "name":"6b",
+         "capacity":null,
+         "number":"304",
+         "story":"Mitte"
+      },
+      {
+         "name":"Vorbereitung Kunst",
+         "capacity":null,
+         "number":"305",
+         "story":"Mitte"
+      },
+      {
+         "name":"Kunstraum",
+         "capacity":null,
+         "number":"305",
+         "story":"Mitte"
+      },
+      {
+         "name":"6a",
+         "capacity":null,
+         "number":"307",
+         "story":"Mitte"
+      },
+      {
+         "name":"Besprechungszimmer",
+         "capacity":null,
+         "number":"308",
+         "story":"Mitte"
+      },
+      {
+         "name":"Lernbüro",
+         "capacity":null,
+         "number":"309",
+         "story":"Mitte"
+      },
+      {
+         "name":"5b",
+         "capacity":null,
+         "number":"310",
+         "story":"Mitte"
+      },
+      {
+         "name":"5a",
+         "capacity":null,
+         "number":"311",
+         "story":"Mitte"
+      },
+      {
+         "name":"Wc's",
+         "capacity":"J. 313 M",
+         "number":"312",
+         "story":"Mitte"
+      },
+      {
+         "name":"Medienraum",
+         "capacity":null,
+         "number":"315",
+         "story":"Mitte"
+      },
+      {
+         "name":"7b",
+         "capacity":null,
+         "number":"315",
+         "story":"Mitte"
+      },
+      {
+         "name":"7a",
+         "capacity":null,
+         "number":"301",
+         "story":"Mitte"
+      },
+      {
+         "name":"Plakate",
+         "capacity":null,
+         "number":"219",
+         "story":"Lehrerräume usw."
+      },
+      {
+         "name": "Lehrer",
+         "capacity": null,
+         "number": ["220", "218"],
+         "story": "Lehrerräume usw."
+      },
+      {
+         "name":"Drucker",
+         "capacity":null,
+         "number":"221",
+         "story":"Lehrerräume usw."
+      },
+      {
+         "name":"Rektor",
+         "capacity":null,
+         "number":"217",
+         "story":"Lehrerräume usw."
+      },
+      {
+         "name":"Sekretariat",
+         "capacity":null,
+         "number": "216",
+         "story":"Lehrerräume usw."
+      },
+      {
+         "name":"Konrektor",
+         "capacity":null,
+         "number":"215",
+         "story":"Lehrerräume usw."
+      },
+      {
+         "name":"Erste Hilfe",
+         "capacity":null,
+         "number":"224",
+         "story":"Lehrerräume usw."
+      },
+      {
+         "name":"WC Lehrer",
+         "capacity":null,
+         "number":["223 Frauen", "222 Männer"],
+         "story":"Lehrerräume usw."
+      },
+      {
+         "name": "Musiksaal",
+         "capacity": null,
+         "number": "214",
+         "story": "Untere Mitte"
+     },
+     {
+         "name": "Lehrerarbeitsraum",
+         "capacity": null,
+         "number": "213",
+         "story": "Untere Mitte"
+     },
+     {
+         "name": "Computer",
+         "capacity": null,
+         "number": "212",
+         "story": "Untere Mitte"
+     },
+     {
+         "name": "Hausmeister",
+         "capacity": null,
+         "number": "210",
+         "story": "Untere Mitte"
+     },
+     {
+         "name": "Sozialarbeit",
+         "capacity": null,
+         "number": "209",
+         "story": "Untere Mitte"
+     },
+     {
+         "name": "10a",
+         "capacity": null,
+         "number": "208",
+         "story": "Untere Mitte"
+     },
+     {
+         "name": "SMV",
+         "capacity": null,
+         "number": "207",
+         "story": "Untere Mitte"
+     },
+     {
+         "name": "10b",
+         "capacity": null,
+         "number": "206",
+         "story": "Untere Mitte"
+     },
+     {
+         "name": "Beratung",
+         "capacity": null,
+         "number": "205",
+         "story": "Untere Mitte"
+     },
+     {
+         "name": "Physik",
+         "capacity": null,
+         "number": "204",
+         "story": "Untere Mitte"
+     },
+     {
+         "name": "Bio",
+         "capacity": null,
+         "number": "203",
+         "story": "Untere Mitte"
+     },
+     {
+         "name": "Vorber. Bio Che Phy",
+         "capacity": null,
+         "number": "202",
+         "story": "Untere Mitte"
+     },
+     {
+         "name": "Chemie",
+         "capacity": null,
+         "number": "201",
+         "story": "Untere Mitte"
+     },
+     {
+         "name": "Technik",
+         "capacity": null,
+         "number": "103",
+         "story": "Unten"
+     },
+     {
+         "name": "Handarbeit",
+         "capacity": null,
+         "number": "105",
+         "story": "Unten"
+     },
+     {
+         "name": "Wc",
+         "capacity": null,
+         "number": ["106 Jungs", "107 Mädels"],
+         "story": "Unten"
+     },
+     {
+         "name": "Lager",
+         "capacity": null,
+         "number": "112",
+         "story": "Unten"
+     },
+     {
+         "name": "Unknown 2.",
+         "capacity": null,
+         "number": "114",
+         "story": "Unten"
+     },
+     {
+         "name": "3b",
+         "capacity": null,
+         "number": "109",
+         "story": "Unten"
+     },
+     {
+         "name": "Heizung",
+         "capacity": null,
+         "number": "110",
+         "story": "Unten"
+     },
+     {
+         "name": "Lernatelier",
+         "capacity": null,
+         "number": "108",
+         "story": "Unten"
+     }
+   ]
+}

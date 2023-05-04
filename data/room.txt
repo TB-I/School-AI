@@ -1,0 +1,63 @@
+Oben
+9a 401
+Com oben 411
+Com oben2  410
+Franzraum 409
+9b 408
+8a 407
+8b 402
+Unknown 403
+
+Mitte
+Klavier 302
+Vorber. Handarbeit 303
+6b 304
+Vorbereitung Kunst 305
+Kunstraum 305
+6a 307
+Besprechungszimmer 308 
+Lernbüro 309
+5b 310
+5a 311
+Wc's 312 J. 313 M
+Medienraum 315
+7b 315
+7a 301
+
+Lehrerräume usw.
+Plakate 219
+Lehrer 220 + 218
+Drucker 221
+Rektor 217
+Sekretariat 216
+Konrektor 215
+Erste Hilfe 224
+Wc Lehrer 223W. 222M
+
+Untere Mitte
+Musiksaal 214
+Lehrerarbeitsraum 213
+Computer 212
+Hausmeister 210
+Sozialarbeit 209
+10a 208
+SMV 207
+10b 206
+Beratung 205
+Physik 204
+Bio 203
+Vorber. Bio Che Phy 202
+Chemie 201
+
+Unten
+Technik 103
+Handarbeit 105
+Wc 106J. 107M.
+Lager 112
+Unknown 2. 114
+3b 109
+Heizung 110
+Lernatelier 108
+
+Räume 51
+Stöcke(mit Aula) 5
